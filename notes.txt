@@ -1,0 +1,14 @@
+step1:-
+fonts=poppins & raleway;
+step=2
+colors:-
+blue=#6F7DFB
+orange=#DA722C
+dark blue=#023047
+black=#070917
+light blue= #057ADA
+white
+step 3:
+images =>
+hero img and icons
+import
