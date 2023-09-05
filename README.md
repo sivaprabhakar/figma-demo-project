@@ -1,1 +1,1 @@
-# figma-demo-project used HTML and css forthi project
+# figma-demo-project used HTML and css for the project
